@@ -12,3 +12,6 @@ All of this activity is in JupyterLab
 5. Push to GitHub.
 6. Make some more changes and push to GitHub.
 7. Pull in your partner's (and everyone elses) changes
+
+
+hey guys did you know snow is like, pretty cool?
