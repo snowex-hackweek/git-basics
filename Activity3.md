@@ -1,5 +1,7 @@
 # Git branches: Activity 3
 
+[Watch me do the activity](https://youtu.be/glB5WTMoR-g)
+
 Let's make a merge conflict and fix it. Note, I am showing this using the `jupyterlab-git` GUI. This is a bit clunky in this GUI. Other GUIs are much better.
 
 1. Switch to main. *make sure you have no changes staged or untracked*
