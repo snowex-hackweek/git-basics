@@ -7,8 +7,8 @@ Update changes on main into your branch.
     * Click the little Git icon on left
     * Click little arrow showing 'main'
     * Click on your branch
-3. Look at status in terminal
-    * `git status`
+3. Look at the difference between the branches in terminal. Replace `eli` with the name of your branch.
+    * `git rev-list --left-right --pretty=oneline eli..main`
 4. Merge main into your branch
     * Git > Merge Branch > select `main`
 
