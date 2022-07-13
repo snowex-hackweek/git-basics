@@ -9,7 +9,7 @@ Create a branch, add a file, and merge into main.
     * Click little arrow showing 'main'
     * Click New Branch
     * Give it a name. I will call my branch `eli`
-4. Create a new file, text or markdown or notebook.
+4. Create a new text or markdown file.
 5. Save it with a unique name, e.g. I will call mine `eli.md`
 6. Stage and commit the change. *this step is important before you switch branches*
 7. Switch back to the main branch (JupyterHub might complain if your file is open. Just close it)
