@@ -14,6 +14,10 @@ All of this activity is in JupyterLab
     * Give it a name. I will call my branch `eli`
 4. Create a new file, text or markdown or notebook.
 5. Save it with a unique name, e.g. I will call mine `eli.md`
+6. Stage and commit the change. *this step is important before you switch branches*
+7. Switch back to the main branch (JupyterHub might complain if your file is open. Just close it)
+8. Switch back to your branch
+
 
 
 
