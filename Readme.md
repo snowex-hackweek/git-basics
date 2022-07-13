@@ -4,7 +4,7 @@
 
 1. **Always know what branch you are on**
 2. Use `git status` a lot.
-3. Click on the Git tab (to left) and look at Current Branch
+3. In on the JupyterHub, click on the Git tab (to left) and look at Current Branch
 
 ## More tips
 
