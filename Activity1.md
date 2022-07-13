@@ -1,5 +1,7 @@
 # Git branches: Activity 1
 
+[Watch the activity](https://youtu.be/WlGyVGjLxeM)
+
 Create a branch, add a file, and merge into main.
 
 1. Copy the URL of this repo
