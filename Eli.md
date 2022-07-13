@@ -2,4 +2,4 @@
 
 Hello! This is the new stuff.
 
-And a new line.
+Get rid of this line.
