@@ -2,7 +2,7 @@
 
 Update changes on main into your branch.
 
-1. If you made any changes to main, stage and commit the change or revert the changes. *this step is important before you switch branches*
+1. Make a change to main that is not on the branch. If others are did activity 1, then their changes will already be in the main branch. If not, make a change that is not on your branch (like a new file) and commit it to main.
 2. Switch to your branch
     * Click the little Git icon on left
     * Click little arrow showing 'main'
