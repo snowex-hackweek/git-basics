@@ -1,20 +1,16 @@
 # Git branches: Activity 3
 
-See what happens on the JupyterHub when you have uncommitted changes and switch branches.
+Let's make a merge conflict and fix it. Note, I am showing this using the `jupyterlab-git` GUI. This is a bit clunky in this GUI. Other GUIs are much better.
 
-1. If you made any changes to main, stage and commit the change or revert the changes. *this step is important before you switch branches*
-2. Switch to your branch
-    * Click the little Git icon on left
-    * Click little arrow showing 'main'
-    * Click on your branch
-3. Edit your file, save and do NOT commit the change.
-4. Switch to the main branch.
-5. Look at your file. You will see the changes you made on the branch.
-6. Switch to your branch
-7. Stage and commit your change.
-8. Switch back to the main branch.
-9. Now you don't see the change.
-
+1. Switch to main. *make sure you have no changes staged or untracked*
+2. Edit your file, save and commit the change.
+3. Switch to your branch.
+4. Make a change to your file **on the same line**, save and commit the change.
+5. Merge main into your branch
+    * Git > Merge Branch > select `main`
+    * Oh no! Merge conflict!
+6. Close the file in JupyterHub. Re-open and you'll see the merge conflict `>>>>>>>>>` lines.
+7. Fix. Get rid of all that `>>>>>>` and `========` stuff.
 
 Note is "following" behavior before committing on a branch is specific to Git on the JupyterHub. It is a setting in the Git config and you won't necessarily have this behavior when you use Git in other places. Note you can easily change this behavior by issuing a `git config` command.
 
