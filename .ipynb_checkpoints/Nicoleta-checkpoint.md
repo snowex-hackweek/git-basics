@@ -1,3 +1,0 @@
-# Nicoleta's file
-
-Hello!
