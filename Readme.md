@@ -1,7 +1,13 @@
 # Tips for working with branches
 
-1. **Important** Always know what branch you are on.
+## The very most important thing when working with branches
+
+1. **Always know what branch you are on**
 2. Use `git status` a lot.
+3. Click on the Git tab (to left) and look at Current Branch
+
+## More tips
+
 3. Commit changes before switching branches. Or set up Git to not move your changes with you when you switch branches.
 4. In the JupyterHub, close files before switching branches.
 5. Keep your branch synced with main. Don't let things get too out of sync.
